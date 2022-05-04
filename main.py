@@ -4,7 +4,7 @@ from Converter import Converter
 
 if __name__ == "__main__":
 
-    proposals = ["Alice", "Bob"]
+    proposals = ["Enrico", "Bob"]
 
     converter = Converter()
     results = converter.arrayStringToByte32Array(proposals)
